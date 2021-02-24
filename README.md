@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- I'm a Software Engineer based in Dublin.
+- BSc. Computer Science graduate at TUDublin (2015-2019)
+- Interested in AR, VR and Graphic Design.
+- Music producer in my spare time.
+
+Check out my work on https://dvegera.dev
+
 <!--
 **yungrazr/yungrazr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
